@@ -1,7 +1,7 @@
 Welcome to the WoW Koi!
 
-* [How to Properly Report an Issue](https://github.com/WoWManiaUK/Blackwing-Lair/wiki/How-to-Properly-Report-an-Issue)
-* [Solve an Issue and Get Paid](https://github.com/WoWManiaUK/Blackwing-Lair/wiki/Solve-an-Issue-and-get-Paid)
-* [List of Current Issues](https://github.com/wowmaniauk/Blackwing-Lair/issues)
+* [How to Properly Report an Issue](https://github.com/GuabinaCore/wowkoi/wiki/How-to-Properly-Report-an-Issue)
+* [Solve an Issue and Get Paid](https://github.com/GuabinaCore/wowkoi/wiki/Solve-an-Issue-and-get-Paid)
+* [List of Current Issues](https://github.com/GuabinaCore/wowkoi/issues)
 
 Please check our [Discord](https://discord.gg/wSVkTwe) if you have any questions.
