@@ -6,7 +6,7 @@ This is a simple guideline on how to report an issue in a way that it makes it e
 * Is it a personal or character specific issue?
 * Is it a UI or addon issue?
 
-If the answer is **YES** to any of the following statements above you should NOT open a bug report. Please then open an in-game ticket.
+If the answer is **YES** to any of the following statements above you should NOT open a bug report.
 
 ### Issue Self Checklist
 * Am I using WoW-KOI Client? (If no, then do not open a bug report)
